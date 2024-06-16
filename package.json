@@ -11,7 +11,9 @@
   "dependencies": {
     "@react-three/drei": "^9.106.0",
     "@react-three/fiber": "^8.16.8",
+    "@sentry/nextjs": "^8.8.0",
     "clsx": "^2.1.1",
+    "eslint-plugin-react-hooks": "^5.1.0-rc-fb9a90fa48-20240614",
     "framer-motion": "^11.2.10",
     "mini-svg-data-uri": "^1.4.4",
     "next": "14.2.3",
