@@ -49,7 +49,7 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently building a JS Animation library",
+    title: "Currently building a Full-Stack Restraunt Website",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -72,34 +72,34 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-    img: "/p1.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+    title: "Discord-Bot",
+    des: "A discord bot having commands like kick , inspire integrated with ChatGPT..",
+    img: "/DiscordProject.svg",
+    iconLists: ["/js.svg", "/djs.svg" , "/chatgpt.svg"],
     link: "/ui.earth.com",
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-    img: "/p2.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
+    title: "Contact-Manager App",
+    des: "A backend application for creating multiple users and storing multiple contacts within each user with proper authorization and security.",
+    img: "/ContactManager.svg",
+    iconLists: ["/js.svg", "/nodejs.svg", "/expressjs.svg" , "/mongodb.svg"],
     link: "/ui.yoom.com",
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-    img: "/p3.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
+    title: "Sortify",
+    des: "Designed a dynamic sorting visualizer utilizing JavaScript, implementing various sorting algorithms in an enhanced user interface for real-time visualization",
+    img: "/sorting.svg",
+    iconLists: ["/html-icon.svg","/w3_css-icon.svg", "/js.svg"],
     link: "/ui.aiimg.com",
   },
   {
     id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-    img: "/p4.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    title: "LameTime - Chrome Extension",
+    des: "Created a chrome extension that gives a different joke evertyime it's enabled..",
+    img: "/LameTime.svg",
+    iconLists: ["/html-icon.svg","/w3_css-icon.svg", "/js.svg"],
     link: "/ui.apple.com",
   },
 ];
@@ -107,40 +107,34 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Collaborating with Rounak during his internship at Barclays was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Rounak's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your team's capabilities and drive impactful outcomes, Rounak is the ideal partner.",
+    name: "Ramesh Kale",
+    title: "Vice President at Barclays",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Working with Rounak during his internship at Barclays was a great experience. His discipline, quick response time, and commitment to excellence were impressive. Rounak's passion for development shone through in all his tasks. If you need someone to boost your project and bring fresh ideas, Rounak is the person to work with.",
+    name: "Pranay Hedau",
+    title: "Software Developer at Barclays",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "As the Public Relations Head for the sports fest of IIT (ISM ) Dhanbad , Rounak has shown exceptional managerial skills by organizing the Musical Night and hosting DJ Aerreo. I personally vouch for his skills and determination to do the assigned work with utmost sincerity and bring the best results.",
+    name: "Prof ACS Rao",
+    title: "Convenor , PARAKRAM'24",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Working on our group project with Rounak in college was an absolute delight. His expertise in web development field , reliability, and dedication to producing outstanding results were evident throughout our collaboration. If you're looking to enhance your team dynamics and achieve remarkable outcomes, Rounak is the perfect teammate.",
+    name: "Shivam Shekhar",
+    title: "Software Developer at Microsoft",
   },
 ];
 
 export const companies = [
   {
     id: 1,
-    name: "cloudinary",
+    name: "cloud",
     img: "/cloud.svg",
     nameImg: "/cloudName.svg",
   },
@@ -152,7 +146,7 @@ export const companies = [
   },
   {
     id: 3,
-    name: "HOSTINGER",
+    name: "hostinger",
     img: "/host.svg",
     nameImg: "/hostName.svg",
   },
@@ -164,7 +158,7 @@ export const companies = [
   },
   {
     id: 5,
-    name: "docker.",
+    name: "docker",
     img: "/dock.svg",
     nameImg: "/dockerName.svg",
   },
@@ -173,32 +167,32 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    title: "Barclays - Software Developer Intern",
+    desc: [" Utilized JavaScript and Salesforce CLI tool to develop over 20 highly adaptable and reusable Lightning Web Components as a member of the re-platforming team." ],
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
-  {
-    id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
-    className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/exp2.svg",
-  },
-  {
-    id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
-    className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/exp3.svg",
-  },
-  {
-    id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
-    className: "md:col-span-2",
-    thumbnail: "/exp4.svg",
-  },
+  // {
+  //   id: 2,
+  //   title: "Mobile App Dev - JSM Tech",
+  //   desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+  //   className: "md:col-span-2", // change to md:col-span-2
+  //   thumbnail: "/exp2.svg",
+  // },
+  // {
+  //   id: 3,
+  //   title: "Freelance App Dev Project",
+  //   desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+  //   className: "md:col-span-2", // change to md:col-span-2
+  //   thumbnail: "/exp3.svg",
+  // },
+  // {
+  //   id: 4,
+  //   title: "Lead Frontend Developer",
+  //   desc: "Developed and maintained user-facing features using modern frontend technologies.",
+  //   className: "md:col-span-2",
+  //   thumbnail: "/exp4.svg",
+  // },
 ];
 
 export const socialMedia = [
