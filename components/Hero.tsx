@@ -41,7 +41,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m Rounak, a Full-Stack Developer based in Jamshedpur, India.
+            Hi! I&apos;m Rounak Raj, a Full-Stack Developer based in Jamshedpur, India.
           </p>
           
           <a href="#about">

@@ -76,7 +76,7 @@ export const projects = [
     des: "A discord bot having commands like kick , inspire integrated with ChatGPT..",
     img: "/DiscordProject.svg",
     iconLists: ["/js.svg", "/djs.svg" , "/chatgpt.svg"],
-    link: "/ui.earth.com",
+    link: "https://github.com/rounakraj401/New_Discord_Bot",
   },
   {
     id: 2,
@@ -84,7 +84,7 @@ export const projects = [
     des: "A backend application for creating multiple users and storing multiple contacts within each user with proper authorization and security.",
     img: "/ContactManager.svg",
     iconLists: ["/js.svg", "/nodejs.svg", "/expressjs.svg" , "/mongodb.svg"],
-    link: "/ui.yoom.com",
+    link: "https://github.com/rounakraj401/Contact-Manager",
   },
   {
     id: 3,
@@ -92,7 +92,7 @@ export const projects = [
     des: "Designed a dynamic sorting visualizer utilizing JavaScript, implementing various sorting algorithms in an enhanced user interface for real-time visualization",
     img: "/sorting.svg",
     iconLists: ["/html-icon.svg","/w3_css-icon.svg", "/js.svg"],
-    link: "/ui.aiimg.com",
+    link: "https://github.com/rounakraj401/Sortify",
   },
   {
     id: 4,
@@ -100,7 +100,7 @@ export const projects = [
     des: "Created a chrome extension that gives a different joke evertyime it's enabled..",
     img: "/LameTime.svg",
     iconLists: ["/html-icon.svg","/w3_css-icon.svg", "/js.svg"],
-    link: "/ui.apple.com",
+    link: "https://github.com/rounakraj401/LameTime",
   },
 ];
 
@@ -110,24 +110,28 @@ export const testimonials = [
       "Collaborating with Rounak during his internship at Barclays was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Rounak's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your team's capabilities and drive impactful outcomes, Rounak is the ideal partner.",
     name: "Ramesh Kale",
     title: "Vice President at Barclays",
+    img: "/ramesh.svg",
   },
   {
     quote:
       "Working with Rounak during his internship at Barclays was a great experience. His discipline, quick response time, and commitment to excellence were impressive. Rounak's passion for development shone through in all his tasks. If you need someone to boost your project and bring fresh ideas, Rounak is the person to work with.",
     name: "Pranay Hedau",
     title: "Software Developer at Barclays",
+    img: "/pranay.svg",
   },
   {
     quote:
       "As the Public Relations Head for the sports fest of IIT (ISM ) Dhanbad , Rounak has shown exceptional managerial skills by organizing the Musical Night and hosting DJ Aerreo. I personally vouch for his skills and determination to do the assigned work with utmost sincerity and bring the best results.",
     name: "Prof ACS Rao",
     title: "Convenor , PARAKRAM'24",
+    img: "/acs.svg",
   },
   {
     quote:
       "Working on our group project with Rounak in college was an absolute delight. His expertise in web development field , reliability, and dedication to producing outstanding results were evident throughout our collaboration. If you're looking to enhance your team dynamics and achieve remarkable outcomes, Rounak is the perfect teammate.",
     name: "Shivam Shekhar",
     title: "Software Developer at Microsoft",
+    img: "/shivam.svg",
   },
 ];
 
@@ -199,13 +203,16 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    link:"https://github.com/rounakraj401",
   },
   {
     id: 2,
     img: "/twit.svg",
+    link:"https://x.com/rounakraj401",
   },
   {
     id: 3,
     img: "/link.svg",
+    link:"https://www.linkedin.com/in/rounak-raj-748178204/",
   },
 ];
